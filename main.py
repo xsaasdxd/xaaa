@@ -1,3 +1,5 @@
+import os
+os.system("pip install -r requirements.txt")
 import libscraper
 import os
 import sys
