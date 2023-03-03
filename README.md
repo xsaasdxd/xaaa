@@ -26,7 +26,14 @@
     <a href="https://github.com/dropout1337/Discord-Mass-DM/issues">Request Feature</a>
   </p>
 </div>
-  
+---------------------------------------
+
+### How to use
+
+* Download python
+* open cmd in file path and do 'pip install -r requirements.txt'
+* run 'python3 main.py'
+
 ---------------------------------------
 
 ### Features
