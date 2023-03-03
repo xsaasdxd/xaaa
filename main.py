@@ -1,3 +1,4 @@
+import libscraper
 import os
 import sys
 import time
@@ -5,7 +6,6 @@ import psutil
 import random
 import logging
 import asyncio
-import libscraper
 from tasksio import TaskPool
 from datetime import datetime
 from lib.scraper import Scraper
