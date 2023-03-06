@@ -30,7 +30,7 @@
 
 ### How to use
 
-* Download python
+* Download Python
 * open cmd in file path and do 'pip install -r requirements.txt'
 * run 'python3 main.py'
 
