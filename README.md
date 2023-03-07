@@ -31,7 +31,7 @@
 ### How to use
 
 * Download Python
-* open cmd in file path and do 'pip install -r requirements.txt'
+* Open cmd in file path and do 'pip install -r requirements.txt'
 * Run 'python3 main.py'
 
 ---------------------------------------
