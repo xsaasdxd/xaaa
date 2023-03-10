@@ -1,6 +1,6 @@
 import os
 os.system("pip install -r requirements.txt")
-import pylibscraper
+import libaryscraper
 import os
 import sys
 import time
