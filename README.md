@@ -25,7 +25,6 @@
     ·
     <a href="https://github.com/dropout1337/Discord-Mass-DM/issues">Request Feature</a>
   </p>
-  
 </div>
 ---------------------------------------
 
