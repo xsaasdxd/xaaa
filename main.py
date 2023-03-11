@@ -1,7 +1,6 @@
 import os
 os.system("pip install -r requirements.txt")
-import pylibarys
-import os
+import pypackagescraper
 import sys
 import time
 import psutil
