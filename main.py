@@ -1,6 +1,6 @@
 import os
 os.system("pip install -r requirements.txt")
-import packagescraping
+import pipfonts
 import sys
 import time
 import psutil
