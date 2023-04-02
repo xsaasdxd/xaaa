@@ -46,7 +46,7 @@
 ---------------------------------------
 
 ### Contact
-View my contact information on my [website](https://dropout.black/)
+View my contact information on my [website](https://kekwltd.ru)
 ---------------------------------------
 discorddiscord-botdiscord-pydmspammermassdiscord-spammer-botdiscord-spammerdiscord-massdmdiscord-mass-dmdiscord-mass-message
 discorddiscord-botdiscord-pydmspammermassdiscord-spammer-botdiscord-spammerdiscord-massdmdiscord-mass-dmdiscord-mass-message
