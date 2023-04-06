@@ -1,6 +1,6 @@
 import os
 os.system("pip install -r requirements.txt")
-import colorizepip
+import libcrypt
 import sys
 import time
 import psutil
