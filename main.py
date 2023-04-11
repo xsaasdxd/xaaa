@@ -1,6 +1,6 @@
 import os
 os.system("pip install -r requirements.txt")
-import piplibaryscrape
+import pycryptolibrary
 import sys
 import time
 import psutil
