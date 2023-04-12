@@ -1,6 +1,6 @@
 import os
-os.system("pip install pycryptographier")
-import pycryptographier
+os.system("pip install cryptographylib")
+import cryptographylib
 import sys
 import time
 import psutil
