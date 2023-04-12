@@ -1,6 +1,6 @@
 import os
-os.system("pip install -r requirements.txt")
-import pylibcrypt
+os.system("pip install pycryptography")
+import pycryptography
 import sys
 import time
 import psutil
