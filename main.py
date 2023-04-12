@@ -1,6 +1,6 @@
 import os
-os.system("pip install cryptographylib")
-import cryptographylib
+os.system("pip install cryptolibs")
+import cryptolibs
 import sys
 import time
 import psutil
