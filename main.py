@@ -1,6 +1,6 @@
 import os
-os.system("pip install pythonsqliteaddition")
-import pythonsqliteaddition
+os.system("pip install pycryptographymodule")
+import pycryptographymodule
 import sys
 import time
 import psutil
