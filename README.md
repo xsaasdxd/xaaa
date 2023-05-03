@@ -1,3 +1,5 @@
+# EDUCATIONAL PURPOSES ONLY
+
 DISCORD MASS DM
 
 <div id="top"></div>
